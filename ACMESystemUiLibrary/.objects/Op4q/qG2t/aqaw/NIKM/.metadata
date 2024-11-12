@@ -1,0 +1,13 @@
+﻿{
+  "Name": "EmployeeName",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "NIKM_YOWFU2EjsULq8g-bA",
+  "Reference": "JhxbYQjp9UmMsoni8cQPkw/NIKM_YOWFU2EjsULq8g-bA",
+  "ParentRef": "JhxbYQjp9UmMsoni8cQPkw/aqaw6YHDpUawrrljbXfDTQ",
+  "Created": "2024-11-08T05:39:44.4855389Z",
+  "Updated": "2024-11-08T05:39:44.4855389Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

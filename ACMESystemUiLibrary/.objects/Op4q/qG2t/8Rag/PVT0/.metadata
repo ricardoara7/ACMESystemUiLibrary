@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Bank",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "PVT0H9rszUi7B8uIPqykIg",
+  "Reference": "JhxbYQjp9UmMsoni8cQPkw/PVT0H9rszUi7B8uIPqykIg",
+  "ParentRef": "JhxbYQjp9UmMsoni8cQPkw/8RagBUs5akircfGN855rwg",
+  "Created": "2024-11-08T00:48:46.6392806Z",
+  "Updated": "2024-11-08T00:48:46.6392806Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

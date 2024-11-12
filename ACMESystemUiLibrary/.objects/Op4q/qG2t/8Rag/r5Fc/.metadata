@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Customer Service",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "r5FcsQUMvEaRjbPk5ida6A",
+  "Reference": "JhxbYQjp9UmMsoni8cQPkw/r5FcsQUMvEaRjbPk5ida6A",
+  "ParentRef": "JhxbYQjp9UmMsoni8cQPkw/8RagBUs5akircfGN855rwg",
+  "Created": "2024-11-08T00:48:46.9097757Z",
+  "Updated": "2024-11-08T00:48:46.9097757Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
